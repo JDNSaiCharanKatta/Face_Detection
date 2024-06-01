@@ -8,3 +8,4 @@ Multiple Face Detection: Detects and distinguishes multiple faces in a single fr
 Face Annotation: Provides bounding boxes and labels for detected faces.
 High Accuracy: Utilizes advanced deep learning models for precise detection.
 Platform Support: Compatible with various operating systems including Windows, macOS, and Linux.
+
