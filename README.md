@@ -1,5 +1,5 @@
 # Face_Detection
-This project is a comprehensive implementation of a face detection system using the OpenCV, . The system is designed to accurately detect and annotate faces in images and video streams. It leverages state-of-the-art algorithms and models to provide high performance and reliability.
+This project is a comprehensive implementation of a face detection system using the OpenCV. The system is designed to accurately detect and annotate faces in images and video streams. It leverages state-of-the-art algorithms and models to provide high performance and reliability.
 
 Features
 Real-time Face Detection: Efficient detection of faces in live video streams.
