@@ -9,6 +9,8 @@ Face Annotation: Provides bounding boxes and labels for detected faces.
 High Accuracy: Utilizes advanced deep learning models for precise detection.
 Platform Support: Compatible with various operating systems including Windows, macOS, and Linux.
 
+# Output
+
 ![output](https://github.com/JDNSaiCharanKatta/Face_Detection/assets/170161500/931c5f00-8bbf-4408-a403-7bfdb45bce78)
 
 
