@@ -3,10 +3,15 @@ This project is a comprehensive implementation of a face detection system using 
 
 ## Features
 Real-time Face Detection: Efficient detection of faces in live video streams.
+
 Image Processing: Capability to process and detect faces in static images.
+
 Multiple Face Detection: Detects and distinguishes multiple faces in a single frame.
+
 Face Annotation: Provides bounding boxes and labels for detected faces.
+
 High Accuracy: Utilizes advanced deep learning models for precise detection.
+
 Platform Support: Compatible with various operating systems including Windows, macOS, and Linux.
 
 # Output
